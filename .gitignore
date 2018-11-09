@@ -1,0 +1,11 @@
+.cache
+package-lock.json
+node_modules
+dist
+*.swp
+*.swo
+*.log
+*.swn
+
+# others
+.DS_Store
